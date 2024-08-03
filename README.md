@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Devon_Rismay
-- 👀 I’m interested in Software Development/Cyber Security
+- 👀 I’m interested in all things Software Development/C#.Net Applications/ & Cyber Security
 - 🌱 Im currently working as a Jr Software Developer, & studying Computer Science in hopes to specialize in Security Software
 - ⚡ Fun fact: Im a Musician(Guitarist) and passionate about the Blues/Jazz
 
